@@ -10,7 +10,7 @@ public class Pds extends Board {
 	// 캡슐화 = private
 	// private 입력 시 Main.java에서 notice뒤에 title과 content 나오지 않음.
 
-	private String attachFile;		// 그림파일
+	private String attachFile;		// 첨부파일
 		
 	// getter xx setter 
 
