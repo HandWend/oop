@@ -11,8 +11,15 @@ public class Main {
 		System.out.println(student1.toString());
 		System.out.println(student2);
 		
+		Teacher teacher = new Teacher("아무개", 50, 160, 50, "22222222");
+		System.out.println(teacher);
+		
+		teacher.show();
+		
 		student1.show();
 		student2.show();
+		
+		
 		
 		
 		

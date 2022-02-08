@@ -34,7 +34,7 @@ public class Student extends Person {
 	
 	@Override
 	public String toString() {
-		return "Student [studentID=" + studentID + ", grade=" + grade + ", GPA=" + GPA + "]";
+		return "Person [name=" + getName() + "]Student [studentID=" + studentID + ", grade=" + grade + ", GPA=" + GPA + "]";
 	}
 	
 	public void show() {
