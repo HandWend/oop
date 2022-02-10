@@ -1,0 +1,29 @@
+package excep;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+
+public class FileExecption {
+
+	public static void main(String[] args) {
+		File file = new File("123.txt");
+		int data = 0;
+		char fis = ' ';
+		
+		try {
+			FileInputStream fis = new FileInputStream(file);
+			
+			while((data = fis.read()) != -1) {
+				System.out.print((char)data);
+			}
+			
+		} catch (Exception e1) {
+			e1.printStackTrace();
+		} finally {
+			fis.close();
+		}
+		
+	}
+
+}
