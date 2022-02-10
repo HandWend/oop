@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
+// fis.close();를 전역변수 개념을 사용하여 빨간 줄 없애기
 public class FileExecption {
 
 	public static void main(String[] args) {
