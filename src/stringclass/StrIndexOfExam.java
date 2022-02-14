@@ -1,5 +1,5 @@
 package stringclass;
-/**
+/** 
  * 문자열 포함 여부 조사
  * @author smart19
  *

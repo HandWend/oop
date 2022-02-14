@@ -2,7 +2,7 @@ package stringclass;
 /**
  * java 바이트 변환
  */
-import java.io.UnsupportedEncodingException;
+import java.io.UnsupportedEncodingException; 
 
 public class StrGetByteExam {
 

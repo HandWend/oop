@@ -2,7 +2,7 @@ package stringclass;
 /**
  * 주민번호 뒷자리 맨 앞 숫자를 통해 남여 여부 출력하기
  * @author smart19
- *
+ *  
  */
 public class StringCharAtExam {
 

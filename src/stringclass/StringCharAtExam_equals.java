@@ -2,8 +2,8 @@ package stringclass;
 /**
  * 
  * @author smart19
- *
- */
+ * 
+ */ 
 public class StringCharAtExam_equals {
 
 	public static void main(String[] args) {

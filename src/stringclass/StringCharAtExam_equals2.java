@@ -2,7 +2,7 @@ package stringclass;
 /**
  * equals 사용하여 대문자 소문자 구분 및 메소드 사용법
  * @author smart19
- *
+ * 
  */
 public class StringCharAtExam_equals2 {
 
