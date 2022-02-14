@@ -2,7 +2,7 @@ package stringclass;
 /**
  * java String 메소드 : 문자열 길이
  * @author smart19
- *
+ * 
  */
 public class StrLengthExam {
 

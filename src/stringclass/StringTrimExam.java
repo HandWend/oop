@@ -2,7 +2,7 @@ package stringclass;
 /**
  * java String : 앞뒤 공백 제거 / trim()
  * @author smart19
- *
+ * 
  */
 public class StringTrimExam {
 

@@ -2,7 +2,7 @@ package stringclass;
 /**
  * java String : 문자열 잘라내기 / substring()
  * @author smart19
- *
+ *  
  */
 public class StringSubstringExam {
 
